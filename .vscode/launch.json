@@ -22,7 +22,7 @@
             "name": "Python Experimental: Django",
             "type": "pythonExperimental",
             "request": "launch",
-            "program": "${workspaceFolder}/demo/manage.py",
+            "program": "${workspaceFolder}/mysite/manage.py",
             "console": "integratedTerminal",
             "args": [
                 "runserver",
